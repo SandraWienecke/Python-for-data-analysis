@@ -1,18 +1,18 @@
-# Python
+# Python for data analysis
 
-# Instacart Grocery Basket Analysis
+## Instacart Grocery Basket Analysis
 
-## Introduction
+### Introduction
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns.
 The task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products.
 
-## Objective
+### Objective
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. The task is to perform an initial data and exploratory
 analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 
-## Key Questions
+### Key Questions
 * The sales team needs to know what the busiest days of the week and hours of the day
 are (i.e., the days and times with the most orders) in order to schedule ads at times
 when there are fewer orders.
@@ -26,7 +26,7 @@ orders.
 * The marketing and sales teams are particularly interested in the different types of
 customers in their system and how their ordering behaviors differ.
 
-## Data
+### Data
 I’ll work with a customer data set (created and included for the purpose of this project). While each data set contains a different kind of information, they all include some kind of common identifier. (NOTE: However, you’ll receive links to each data set in the Exercise content, as well.)
 
 * https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip

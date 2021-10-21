@@ -27,11 +27,15 @@ orders.
 customers in their system and how their ordering behaviors differ.
 
 ### Data
-I’ll work with a customer data set (created and included for the purpose of this project). While each data set contains a different kind of information, they all include some kind of common identifier. (NOTE: However, you’ll receive links to each data set in the Exercise content, as well.)
+I’ll work with a customer data set (created and included for the purpose of this project). While each data set contains a different kind of information, they all include some kind of common identifier.
 
-* https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
-* https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
-* https://www.instacart.com/datasets/grocery-shopping-2017
+* [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+* [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+* [The Instacart Online Grocery Shopping Dataset
+2017](https://www.instacart.com/datasets/grocery-shopping-2017)
+* [4.3_orders_products.zip](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
+* [Departments data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
+* [Departments Order Products](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products__prior.zip)
 
 ### Folder organization
 01 Project management: This folder contains all documents related to the project, e.g. a project plan with timetable, a budget, signed contracts and generally all important documents related to the organisation of the project.

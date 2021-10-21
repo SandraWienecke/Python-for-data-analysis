@@ -32,3 +32,17 @@ I’ll work with a customer data set (created and included for the purpose of th
 * https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 * https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
 * https://www.instacart.com/datasets/grocery-shopping-2017
+
+### Folder organization
+01 Project management: This folder contains all documents related to the project, e.g. a project plan with timetable, a budget, signed contracts and generally all important documents related to the organisation of the project.
+
+02 Data: This folder contains all the data sets used in the project.
+
+03 Scripts: This folder contains my notebooks.
+
+04 Analysis: This folder contains all the results I create during my analysis.
+
+05 Sent to client: This folder contains all the final results I would have sent to the client. 
+
+
+
